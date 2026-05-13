@@ -505,7 +505,9 @@
   </div>
 
   <!-- KATALOG -->
-  <div id="katalog" class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-4 scroll-mt-36"></div>
+<div id="katalog"
+class="grid !grid-cols-2 lg:!grid-cols-5 gap-4 scroll-mt-36">
+</div>
 
 </section>
 <section id="paket" class="py-24" data-aos="fade-up">
