@@ -1,5 +1,12 @@
 [
   {
+    "nama": "Pandora Party",
+    "gambar": "assets/Pandora Party.png",
+    "link": "https://id.sudahnikah.com/d/Pandora-Party?kpd=Tamu+Undangan",
+    "kategori": "party&dinner",
+    "keyword": ["pink","balon","cute","party","ulangtahun","lucu","putih"]
+  },
+  {
      "nama": "Java Banjar",
     "gambar": "assets/Java Banjar.png",
     "link": "https://id.sudahnikah.com/d/Java-Banjar-C?kpd=Tamu+Undangan",
